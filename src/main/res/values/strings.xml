@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="user">USER</string>
+    <string name="username">UserName</string>
+    <string name="TypeYourPwd">TypeYourPwd</string>
+    <string name="expensemanager">ExpenseManager</string>
+    <string name="loginL">Login</string>
+    <string name="pwd">Pwd:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="pwdR">PWD</string>
+    <string name="pwdRt">PWD:</string>
+    <string name="avatarR">Avatar</string>
+    <string name="usernameL">UserName:</string>
+    <string name="add_payer">Add Payer</string>
+</resources>
